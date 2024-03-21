@@ -1,0 +1,1 @@
+export { CPDecrease } from './CPDecrease'
